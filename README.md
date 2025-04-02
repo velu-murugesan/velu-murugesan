@@ -6,7 +6,7 @@ Web Developer
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](discordapp.com/users/1028520807036629113) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/velu-m-b279402a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](discordapp.com/users/1028520807036629113) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/velu-murugesan)
 
 
 ### I code in
@@ -21,4 +21,5 @@ Web Developer
 
 ![velu-murugesan's Stats](https://github-readme-stats.vercel.app/api?username=velu-murugesan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/velumurugesan?theme=dark&font=changa&ext=contest)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/velu2002cs?theme=light&font=Biryani&ext=contest)
