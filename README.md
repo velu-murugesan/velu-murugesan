@@ -6,7 +6,7 @@ Web Developer
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](discordapp.com/users/1028520807036629113) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/velu-murugesan)
+<br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](discordapp.com/users/1028520807036629113) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/velu-murugesan/)
 
 
 ### I code in
