@@ -10,7 +10,7 @@ Web Developer
 
 
 ### I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img width="64" height="64" src="https://img.icons8.com/arcade/64/api-settings.png" alt="api-settings"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
 
 ### IDE and Tools I Use
