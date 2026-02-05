@@ -18,8 +18,7 @@ Web Developer
 
 
 
-
-![velu-murugesan's Stats](https://github-readme-stats.vercel.app/api?username=velu-murugesan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![velu-murugesan's Stats](https://github-readme-stats.vercel.app/api?username=velu-murugesan&theme=vue-dark&show_icons=true&hide_border=true&cache_seconds=1800)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/velu2002cs?theme=light&font=Biryani&ext=contest)
